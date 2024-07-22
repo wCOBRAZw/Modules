@@ -147,9 +147,9 @@ main {
 }
 
 .card {
-    width: 50%;
+    width: 80%;
     max-width: 450px;
-    height: 80%;
+    height: 85%;
     max-height: 620px;
     background-color: white;
     border-radius: 50px;
